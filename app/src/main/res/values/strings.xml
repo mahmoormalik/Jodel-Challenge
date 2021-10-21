@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JodelChallenge</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="users_fragment_label">Search Users</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="error_generic">Opps, Something went wrong.</string>
+    <string name="error_api_limit_reached">Opps, API rate limit exceeded.</string>
+    <string name="label_press_search">Please press search icon to start.</string>
+    <string name="label_query">Showing results for: %s</string>
+    <string name="error_no_user">No Users found.</string>
+    <string name="error_cannot_load_more_user">Unable to load more users.</string>
+
+</resources>

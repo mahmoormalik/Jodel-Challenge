@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jodel.jodelchallenge.activity.MainActivity">
+
+    <item android:id="@+id/action_fav"
+        android:orderInCategory="5"
+        android:icon="@drawable/ic_star_outline_detail"
+        app:showAsAction="always" />
+</menu>
