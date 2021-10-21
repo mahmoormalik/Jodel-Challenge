@@ -28,5 +28,5 @@ Sixt Coding Challenge
 
 
 # Working APK:
-* https://drive.google.com/file/d/1uwXgwO6CrE74ycl7EGaGqA87mdVcG9jk/view?usp=sharing
+* https://drive.google.com/file/d/1H-Z7vurmuG_ROGhhE9PLk5_Aq1_o0Qh0/view?usp=sharing
 
